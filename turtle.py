@@ -1,5 +1,5 @@
 #1번
-import turtle
+import turtle #터틀 그래픽 모듈을 가져옴
 t = turtle.Turtle()
 t.shape("turtle")
 t.color("black", "white")
